@@ -4,4 +4,4 @@ This portfolio includes examples of past projects I contributed on.
 # Documents
 Examples of larger works to showcase my skills. 
 
-- [Node.API for JavaScript](https://github.com/emilyschaedle/documentation-portfolio/wiki)
+- [Node.API for JavaScript](https://github.com/emilyschaedle/documentation-portfolio/wiki/API-for-Node.API-Documentation)
